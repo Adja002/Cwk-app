@@ -7,5 +7,6 @@ plotly
 scikit-learn
 boto3
 joblib
+googletrans==4.0.0-rc1
 
 
